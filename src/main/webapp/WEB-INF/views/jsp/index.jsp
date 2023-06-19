@@ -40,15 +40,14 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-8296242028</h3>
+			<h2>Welcome To Wissen Infotech Private Limited, Adarsh Eco Place, Bengaluru, Inida ,Karnataka.</h2>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Wissen Infotech 2022</p>
 	</footer>
 </div>
 
